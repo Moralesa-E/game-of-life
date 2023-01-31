@@ -6,6 +6,8 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 
 ## Instructions 
 
+Run "pip install requirements.txt", preferably in a virtual environment.
+
 Run main.py file.
 
 The game will start in pause mode, press any key to exit pause.
